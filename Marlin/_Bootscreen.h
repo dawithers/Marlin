@@ -1,0 +1,1 @@
+../Configurations/config/examples/Creality/Ender-5/BigTreeTech SKR Mini E3 3.0/_Bootscreen.h
